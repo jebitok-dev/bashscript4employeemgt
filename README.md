@@ -15,8 +15,8 @@ The bashscript takes up various conditions or aims to achieve:
 `````
 $ git clone https://github.com/jebitok-dev/bashscript4employeemgt
 $ cd bashscript4employeemgt
-$ chmod +x create_user.sh
-$ ./create_user.sh <file_with_employee_names.txt> 
+$ chmod +x create_users.sh
+$ ./create_users.sh <file_with_employee_names.txt> 
 
 `````
 
